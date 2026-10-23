@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 构建产物
+build/
+dist/
+*.spec
+*.exe
+
+# 解包/提取产物（这些是别人的版权素材，永远不要提交）
+scene.pkg
+*.pkg
+*.tex
+extracted/
+images/
+*.mp3
+*.otf
+*.ttf
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
